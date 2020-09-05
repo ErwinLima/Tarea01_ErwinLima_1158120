@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(854,1): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(855,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(880,19): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(882,26): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(925,21): warning C4101: 'e': variable local sin referencia
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(939,20): warning C4101: 'e': variable local sin referencia
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(974,20): warning C4101: 'e': variable local sin referencia
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(1011,21): warning C4101: 'e': variable local sin referencia
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(1016,20): warning C4101: 'e': variable local sin referencia
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(1068,19): warning C4101: 'e': variable local sin referencia
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(1076,10): warning C4101: 'palindromo': variable local sin referencia
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(854): warning C4700: se utilizó la variable local 'nuevoNumero' sin inicializar
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\MyForm.h(1092): warning C4700: se utilizó la variable local 'cont' sin inicializar
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Tarea1_Erwin_Lima_1158120.vcxproj -> C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\Debug\Tarea1_Erwin_Lima_1158120.exe

@@ -1,0 +1,5 @@
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\Debug\Tarea1_Erwin_Lima_1158120.vcxprojAssemblyReference.cache
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\Debug\Tarea1ErwinLima1158120.MyForm.resources
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\Debug\Tarea1_Erwin_Lima_1158120.vcxproj.GenerateResource.cache
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\Debug\Tarea1_Erwin_Lima_1158120.exe
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\LAB PROGRA AVZ\Tarea1_Erwin_Lima_1158120\Debug\Tarea1_Erwin_Lima_1158120.pdb
